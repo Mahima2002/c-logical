@@ -1,0 +1,131 @@
+question 1
+
+#include<stdio.h>
+int main (){
+    
+    printf("hello,welcome to jaipur");
+    return 0;
+}
+
+
+question 2
+
+#include<stdio.h>
+int main (){
+    
+    printf("hi,how are you ");
+    return 0;
+}
+
+question 3
+#include<stdio.h>
+int main(){
+    
+    printf("Hello world");
+    printf("how are you");
+    return 0;
+}
+
+question  4
+
+#include<stdio.h>
+int main(){
+    printf("Yarosha\n");
+    printf("Anshul\n");
+    printf("Nikita\n");
+    printf("Amisha\n");
+    printf("Aditi\n");
+    
+    return 0;
+    
+}
+
+question 5
+#include<stdio.h>
+int main(){
+    
+    printf("India\n");
+    printf("Japan\n");
+    printf("China\n");
+    printf("Russia\n");
+    printf("Canada\n");
+    
+    return 0;
+    
+}
+
+question 6
+
+#include<stdio.h>
+int main(){
+    
+    printf("Delhi\n");
+    printf("Noida\n");
+    printf("Jaipur\n");
+    printf("Goa\n");
+    printf("Kota\n");
+    
+    return 0;
+    
+}
+
+question  7
+
+#include<stdio.h>
+int main(){
+    
+    printf("Mango\n");
+    printf("Apple\n");
+    printf("Banana\n");
+    printf("Papaya\n");
+    printf("Watermelon\n");
+    
+    return 0;
+    
+}
+
+question 8
+
+#include<stdio.h>
+int main(){
+    
+    printf("Pea\n");
+    printf("Potato\n");
+    printf("Ladyfinger\n");
+    printf("Capsicum\n");
+    printf("Spinach\n");
+    
+    return 0;
+    
+}
+
+question 9
+
+#include<stdio.h>
+int main(){
+    
+    printf("Burger\n");
+    printf("Pizza\n");
+    printf("French fries\n");
+    printf("Maggi\n");
+    printf("Poha\n");
+    
+    return 0;
+    
+}
+
+question 10
+
+#include<stdio.h>
+int main(){
+    
+    printf("Bihar\n");
+    printf("Gujarat\n");
+    printf("Haryana\n");
+    printf("Jharkhand\n");
+    printf("Himachal Pradesh\n");
+    
+    return 0;
+    
+}
+
