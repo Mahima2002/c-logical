@@ -129,3 +129,11 @@ int main(){
     
 }
 
+question 11
+
+#include<stdio.h>
+int main()
+{
+    printf("Kaise hai aaap log ??");
+    return 0;
+}
